@@ -17,3 +17,4 @@ Known Issues
 
 Clear Screen button doesn't work.
 Cycle Through Zones requires you to enter a line in the command line to simulate a socket.
+Sometimes, the textboxes in the small window are place on top of each other.
